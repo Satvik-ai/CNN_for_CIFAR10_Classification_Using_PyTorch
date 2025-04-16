@@ -60,3 +60,9 @@ The Convolutional Neural Network (CNN) used in this project consists of the foll
   <img src="images/classification_accuracy.png" alt="Classification Accuracy"/>
 </p>
 
+- Classification Report
+
+<p align="center">
+  <img src="images/classification_report.png" alt="Classification Report"/>
+</p>
+
