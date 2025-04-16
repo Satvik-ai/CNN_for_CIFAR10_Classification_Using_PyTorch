@@ -55,4 +55,5 @@ The Convolutional Neural Network (CNN) used in this project consists of the foll
 ## Results
 
 - Achieved significant classification accuracy on CIFAR-10 dataset.
+  
 ![Classification Accuracy](images/classification_accuracy.png)
